@@ -3,11 +3,11 @@ rust-coding-test.
 
 ## basic library
 
-rustc		// Rustコンパイラ
-rustup		// Rustインストーラ・アップデータ
-cargo		// Rustパッケージマネージャ
-rustdoc		// ドキュメント生成ツール(rustdoc)
-rustfmt		// コーディングスタイル整形ツール
+- rustc		// Rustコンパイラ
+- rustup		// Rustインストーラ・アップデータ
+- cargo		// Rustパッケージマネージャ
+- rustdoc		// ドキュメント生成ツール(rustdoc)
+- rustfmt		// コーディングスタイル整形ツール
 
 
 ## ref
